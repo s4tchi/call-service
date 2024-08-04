@@ -6,13 +6,13 @@ Pet project with react + TS + zustand + WebRTC
 
 ### 1. Install modules
 
-``` bash
+```bash
 npm install
 ```
 
 ### 2. Start app
 
-``` bash
+```bash
 npm run dev
 ```
 
@@ -20,13 +20,13 @@ npm run dev
 
 ### 1. Install modules
 
-``` bash
+```bash
 npm install
 ```
 
 ### 2. Build app
 
-``` bash
+```bash
 npm run build
 ```
 
